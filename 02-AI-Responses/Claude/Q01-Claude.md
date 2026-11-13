@@ -1,0 +1,15 @@
+What happens after the vibe is mostly a correction. The first wave of vibe-coded apps hit production, and companies are now building the review, ownership, and audit layers that should have been there from the start.
+
+**Gating by risk.** Governance advice aimed at CTOs says to allow vibe coding for prototypes and scaffolding, and to block it for regulated, production-bound systems. The fast lane is disposable prototypes and internal tools that touch no production data. Anything involving novel security work or sensitive data gets gated.
+
+**Review and accountability.** Companies have found that vibe-coded output was never subjected to the review, testing, and architectural thinking that separates working code from production-ready code. One security executive has teams track review latency, defect escape rate into production, and the percentage of merged code with a named human accountable for it. A falling accountability number is read as a sign that debt is compounding unseen. Another firm described a feature that passed initial testing but failed security review because it ignored pre-established access controls. They caught it quickly because security and architecture reviews were already part of their process.
+
+**Vibe coding audits.** The cleanup work has become a service category. Vendors now sell audits that go beyond code review. Instead of asking whether one change is correct, they assess whether an AI-generated codebase can be trusted, maintained, secured, and scaled in production. Consultancies report startups arriving with products that work in demos and start failing under real usage.
+
+**Managing "comprehension debt."** Beyond security, teams worry about code that works while nobody fully understands why, which makes a 2am production failure a matter of debugging logic you never learned. Named ownership and mandatory human review are the usual answers. Compliance adds pressure too: environment separation and audit trails are what Cyber Essentials Plus and ISO 42001 assessors will ask to see.
+
+The numbers come with a caveat. Many of the widely cited figures come from vendor blogs with something to sell. The most-repeated one is that Veracode's 2026 report found 45% of AI-generated code samples introduced known vulnerabilities. Treat that and similar figures as directional rather than precise. Georgia Tech's tracking of CVEs attributed to AI coding tools, which rose from six in January 2026 to 35 in March, is a more systematic source, though it only counts publicly attributable cases.
+
+Most sources land in the same place. The tools aren't the problem. Shipping vibe code to production without review is. A related worry is longer-term: if companies hire fewer juniors, the engineers needed to fix today's technical debt in 2028 may not exist.
+
+Are you asking from the builder side, or thinking about how a company should handle it?
