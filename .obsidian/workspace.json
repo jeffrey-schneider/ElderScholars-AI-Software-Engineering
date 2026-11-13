@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-AI-Responses/Perplexity/Q01-Perplexity.md",
+                "file": "03-NotebookLM/Q01-NotebookLM Analysis 01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Q01-Perplexity"
+              "title": "Q01-NotebookLM Analysis 01"
             }
           }
         ],
@@ -241,6 +241,11 @@
   },
   "active": "6c215057e4ad42e9",
   "lastOpenFiles": [
+    "03-NotebookLM/Q01-NotebookLM Analysis 01 1.md",
+    "03-NotebookLM/Q01-NotebookLM Analysis 01.md",
+    "03-NotebookLM/Q01-NotebookLM Analysis 00.md",
+    "03-NotebookLM/Q01-Synthesis.md",
+    "02-AI-Responses/Perplexity/Q01-Perplexity.md",
     "02-AI-Responses/Gemini/Q01- Gemini.md",
     "02-AI-Responses/Claude/Q01-Claude.md",
     "02-AI-Responses/ChatGPT/Q01-ChatGPT.md",
@@ -248,7 +253,6 @@
     "02-AI-Responses/ChatGPT/Q02-ChatGPT Response.md",
     "01-Research-Questions/Q02-Using NotebookLM for AI Research.md",
     "01-Research-Questions/Q01-After-the-Vibe.md",
-    "02-AI-Responses/Perplexity/Q01-Perplexity.md",
     "02-AI-Responses/Perplexity",
     "02-AI-Responses/Gemini",
     "02-AI-Responses/Claude",
