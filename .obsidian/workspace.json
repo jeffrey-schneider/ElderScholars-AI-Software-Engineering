@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q01-ChatGPT.md",
+                "file": "02-AI-Responses/ChatGPT/Q01 - ChatGPT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Q01-ChatGPT"
+              "title": "Q01 - ChatGPT"
+            }
+          },
+          {
+            "id": "1afd885655c0d69a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-AI-Responses/ChatGPT/Q01 — ChatGPT Follow-up 01.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Q01 — ChatGPT Follow-up 01"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -211,12 +225,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "79d60be12e34bde4",
+  "active": "1afd885655c0d69a",
   "lastOpenFiles": [
+    "02-AI-Responses/ChatGPT/Q01 - ChatGPT.md",
+    "02-AI-Responses/ChatGPT/Q01 — ChatGPT Follow-up 01.md",
+    "02-AI-Responses/Perplexity",
+    "02-AI-Responses/Gemini",
+    "02-AI-Responses/Claude",
+    "02-AI-Responses/ChatGPT",
     "01-Research-Questions/After-the-Vibe.md",
-    "Q01-ChatGPT.md",
     "Presentation-Outline.md",
-    "06-NotebookLM",
+    "03-NotebookLM",
     "02-AI-Responses",
     "01-Research-Questions",
     "README.md"

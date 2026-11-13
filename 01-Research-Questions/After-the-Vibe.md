@@ -29,7 +29,7 @@ Compare the responses using NotebookLM, identifying areas of agreement, disagree
 
 ## Related Notes
 
-- [[Q01-ChatGPT]]
+- [[Q01 - ChatGPT]]
     
 - [[Q01-Claude]]
     
