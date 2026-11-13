@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Research-Questions/After-the-Vibe.md",
+                "file": "01-Research-Questions/Q01-After-the-Vibe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "After-the-Vibe"
+              "title": "Q01-After-the-Vibe"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-AI-Responses/ChatGPT/Q01 - ChatGPT.md",
+                "file": "02-AI-Responses/ChatGPT/Q01-ChatGPT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Q01 - ChatGPT"
+              "title": "Q01-ChatGPT"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Research-Questions/After-the-Vibe.md",
+                "file": "01-Research-Questions/Q01-After-the-Vibe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "After-the-Vibe"
+              "title": "Q01-After-the-Vibe"
             }
           },
           {
@@ -241,12 +241,14 @@
   },
   "active": "6c215057e4ad42e9",
   "lastOpenFiles": [
-    "01-Research-Questions/After-the-Vibe.md",
-    "02-AI-Responses/Perplexity/Q01-Perplexity.md",
     "02-AI-Responses/Gemini/Q01- Gemini.md",
     "02-AI-Responses/Claude/Q01-Claude.md",
-    "02-AI-Responses/ChatGPT/Q01 — ChatGPT Follow-up 01.md",
-    "02-AI-Responses/ChatGPT/Q01 - ChatGPT.md",
+    "02-AI-Responses/ChatGPT/Q01-ChatGPT.md",
+    "02-AI-Responses/ChatGPT/Q01-ChatGPT Follow-up 01.md",
+    "02-AI-Responses/ChatGPT/Q02-ChatGPT Response.md",
+    "01-Research-Questions/Q02-Using NotebookLM for AI Research.md",
+    "01-Research-Questions/Q01-After-the-Vibe.md",
+    "02-AI-Responses/Perplexity/Q01-Perplexity.md",
     "02-AI-Responses/Perplexity",
     "02-AI-Responses/Gemini",
     "02-AI-Responses/Claude",

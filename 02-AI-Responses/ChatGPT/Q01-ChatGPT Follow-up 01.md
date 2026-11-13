@@ -2,7 +2,7 @@
 **AI System:** ChatGPT  
 **Date:** 2026-11-13  
 **Research Question:** [[Q01-After-the-Vibe]]  
-**Previous Exchange:** [[Q01 - ChatGPT]]
+**Previous Exchange:** [[Q01-ChatGPT]]
 
 ## Follow-up Prompt
 
@@ -131,7 +131,7 @@ That will determine how much live exploration we can reasonably accommodate.
 
 ## Original AI Response
 
-[[Q01 - ChatGPT]]
+[[Q01-ChatGPT]]
 
 ## Research Notes
 
